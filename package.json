@@ -1,0 +1,19 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "will find and replace a given string in all filenames in a directory",
+  "main": "renamer.js",
+  "scripts": {
+    "test": "node renamer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youWouldntScriptACar/renamer.git"
+  },
+  "author": "James Hennigan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/youWouldntScriptACar/renamer/issues"
+  },
+  "homepage": "https://github.com/youWouldntScriptACar/renamer#readme"
+}
